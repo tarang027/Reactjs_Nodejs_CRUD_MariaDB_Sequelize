@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "omtec12#",
+    "database": "orm_demo",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mariadb"
+  },
+  "test": {
+    "username": "root",
+    "password": "omtec12#",
+    "database": "orm_demo",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mariadb"
+  },
+  "production": {
+    "username": "root",
+    "password": "omtec12#",
+    "database": "orm_demo",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mariadb"
+  }
+}
